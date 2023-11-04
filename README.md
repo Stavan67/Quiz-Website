@@ -1,0 +1,3 @@
+# Quiz-Website
+Quiz Website using HTML, CSS, JAVASCRIPT and PHP.
+If you want to make quiz website create a folder called quiz in C:\xampp\htdocs and upload all the files mentioned above in the quiz folder. Second thing open xampp/wampp control panel and start apache and mysql server. Then open phpmyadmin website in your browser and create a database called quiz in which create two tables registration and results and add the attributes mentioned in register.php and result.php. And then open new tab and search localhost/quiz(folder name in which all the files are)/login.php(you can also write only 'php' instead of login.php) and there you go the simple quiz website.
